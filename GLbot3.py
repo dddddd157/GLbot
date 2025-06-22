@@ -33,7 +33,7 @@ ACCOUNTS = [
         'password': os.getenv('PASSWORD_2'),
         'imap_host': 'imap.mail.ru',
         'imap_port': 993,
-        'chat_id': '-1001980591208',
+        'chat_id': '-1002187630843',
         'thread_id': 14235,
         'uid_file': 'last_uid_2.txt'
     },
